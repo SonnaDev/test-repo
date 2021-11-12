@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.container{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+    
+    
+}
+h1{
+    margin: 0;
+    color: white;
+    
+}
+.second-container{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+    
+
+}
+.third-container{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+   
+    
+}
